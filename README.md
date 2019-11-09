@@ -1,4 +1,4 @@
-# Landing-Page
+# Animated Landing-Page
 Created using HTML and CSS
 
 <img src="preview/01.png">
